@@ -1,1 +1,1 @@
-# Bot
+# Automatic Applications Bot
